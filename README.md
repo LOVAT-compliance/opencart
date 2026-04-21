@@ -40,5 +40,5 @@ Integrate the OpenCart store with [Lovat](https://lappa.org), which lets you man
 ## Testing the Plugin
 - Verify the plugin’s functionality by checking the calculation and data transfer processes.
 - Ensure that each step is followed carefully to guarantee a smooth integration process.
-- If you encounter any issues, consult the [Lovat platform’s customer service](https://lappa.org/contacts/) for assistance.
+- If you encounter any issues, consult the [Lovat platform’s customer service](https://lappa.org/contact-us/) for assistance.
 
