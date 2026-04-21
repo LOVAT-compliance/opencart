@@ -55,8 +55,8 @@ class Transactions extends \Opencart\System\Engine\Controller {
 
 		$results = $this->model_extension_lovat_module_transactions->getSetting('module_transactions');
 		
-		// $data['url'] = 'https://dev.vatcompliance.co/api/1/tax_rate/';
-		$data['url'] = 'https://merchant.vatcompliance.co/api/1/tax_rate/';
+		// $data['url'] = 'https://api.lappa.org/api/1/tax_rate/';
+		$data['url'] = 'https://api.lappa.org/api/1/tax_rate/';
 		$data['access_token'] = '';
 		$data['order_statuses_id'] = [5,11];
 		$data['module_transactions_status'] = 0;
