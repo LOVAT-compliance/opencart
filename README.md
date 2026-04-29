@@ -13,10 +13,10 @@ Integrate the OpenCart store with [Lovat](https://lappa.org), which lets you man
 2. Select the **Installer** sub-section.
 3. Click on **Upload**.
 4. Choose the `opencart-main.zip` file from your local disk.
-5. Once uploaded, the plugin named **Lovat** will appear in the plugins list.
+5. Once uploaded, the plugin named **Lappa** will appear in the plugins list.
 
 ## Plugin Activation
-1. Click the **Install** button next to the Lovat plugin.
+1. Click the **Install** button next to the Lappa plugin.
 2. A confirmation message will display, indicating a successful installation.
 
 ## Module Connection and Configuration
@@ -27,18 +27,18 @@ Integrate the OpenCart store with [Lovat](https://lappa.org), which lets you man
 5. After installation, select **Edit** to configure the module.
 
 ## Setting Module Preferences
-1. In the settings window, enter the Access Token provided by Lovat.
+1. In the settings window, enter the Access Token provided by Lappa.
 2. Enable **Tax Calculation** and **Status**.
 3. Click **Save** to apply the settings.
 
 ## Configuring Store Location
 1. Go to the **System** menu.
 2. Select **Localization** and then **Store Location**.
-3. Find the store named **Lovat**, click **Edit**, and update the necessary information.
+3. Find the store named **Lappa**, click **Edit**, and update the necessary information.
 4. Click **Save** to finalize the location settings.
 
 ## Testing the Plugin
 - Verify the plugin’s functionality by checking the calculation and data transfer processes.
 - Ensure that each step is followed carefully to guarantee a smooth integration process.
-- If you encounter any issues, consult the [Lovat platform’s customer service](https://lappa.org/contact-us/) for assistance.
+- If you encounter any issues, consult the [Lappa platform’s customer service](https://lappa.org/contact-us/) for assistance.
 
